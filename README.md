@@ -15,7 +15,7 @@ const moyanogdev = {
 
 ## Technologies:
 <p>
-  <img> alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+ (https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
 </p>
 
 ## :earth_americas: You can find me:

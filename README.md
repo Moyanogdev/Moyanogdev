@@ -1,8 +1,8 @@
 ![BannerGithub](https://user-images.githubusercontent.com/100478270/189510985-919dcd88-0f7f-4278-a3fb-628111cb7ef7.png)
-:man: A passionate frontend developer from Córdoba, Argentina.
+A passionate frontend developer from Córdoba, Argentina.
 
 
-## 💻 About me in code:
+## :man: About me in code:
 ```js
 const moyanogdev = {
   pronouns: "he" | "him",
@@ -13,7 +13,7 @@ const moyanogdev = {
  
  ---
 
-## Technologies:
+## :computer: Technologies:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>

@@ -1,5 +1,6 @@
 ![BannerGithub](https://user-images.githubusercontent.com/100478270/189510985-919dcd88-0f7f-4278-a3fb-628111cb7ef7.png)
-## :man: A passionate frontend developer from Córdoba, Argentina. 🇦🇷
+:man: A passionate frontend developer from Córdoba, Argentina.
+
 
 ## 💻 About me in code:
 ```js
@@ -9,6 +10,12 @@ const moyanogdev = {
   tools: [Bootstrap, React, Git],
  }
  ```
+ 
+ ---
+
+## :pager: Technologies:
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
  
 ## :earth_americas: You can find me:
 - [LinkedIn] (https://linkedin.com/in/gonzalofedericomoyano/)

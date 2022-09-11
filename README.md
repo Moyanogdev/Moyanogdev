@@ -1,5 +1,5 @@
 ![BannerGithub](https://user-images.githubusercontent.com/100478270/189510985-919dcd88-0f7f-4278-a3fb-628111cb7ef7.png)
-# A passionate frontend developer from Córdoba, Argentina.
+## :man: A passionate frontend developer from Córdoba, Argentina. 🇦🇷
 
 ## 💻 About me in code:
 ```js

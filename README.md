@@ -28,11 +28,10 @@ const moyanogdev = {
 - [Portfolio] (https://moyanogdev.github.io/PortfolioDev)
 
 ## :bar_chart: Statistics:
-<div>
-  ![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev&theme=tokyonight)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanogdev&theme=tokyonight)](https://github.com/moyanogdev/github-readme-stats)
-</div>
+![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanogdev&theme=tokyonight)](https://github.com/moyanogdev/github-readme-stats)
+
 
 <!--
 **Moyanogdev/Moyanogdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

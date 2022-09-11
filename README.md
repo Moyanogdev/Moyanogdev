@@ -1,6 +1,6 @@
 ![BannerGithub](https://user-images.githubusercontent.com/100478270/189510985-919dcd88-0f7f-4278-a3fb-628111cb7ef7.png)
 A passionate frontend developer from Córdoba, Argentina.
-I carry out projects using Frontend technologies. HTML, CSS, Bootstrap and JavaScript. I am constantly learning and looking for a new challenge.
+I carry out projects using Frontend technologies. HTML, CSS, Bootstrap and JavaScript. I'm constantly learning and looking for a new challenge.
 
 - 🌱 I’m currently learning React Js
 - 📫 How to reach me: gmoyanodvlpr@gmail.com

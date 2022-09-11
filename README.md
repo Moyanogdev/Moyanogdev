@@ -4,6 +4,8 @@ You can find me :earth_americas: :
 - [LinkedIn] (https://linkedin.com/in/gonzalofedericomoyano/)
 - [Portfolio] (https://moyanogdev.github.io/PortfolioDev)
 
+[![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev)
+
 <!--
 **Moyanogdev/Moyanogdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

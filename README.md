@@ -1,6 +1,9 @@
 ![BannerGithub](https://user-images.githubusercontent.com/100478270/189510985-919dcd88-0f7f-4278-a3fb-628111cb7ef7.png)
 A passionate frontend developer from Córdoba, Argentina.
+I carry out projects using Frontend technologies. HTML, CSS, Bootstrap and JavaScript. I am constantly learning and looking for a new challenge.
 
+- 🌱 I’m currently learning React Js
+- 📫 How to reach me: gmoyanodvlpr@gmail.com
 
 ## :man: About me in code:
 ```js
@@ -10,8 +13,6 @@ const moyanogdev = {
   tools: [Bootstrap, React, Git],
  }
  ```
- 
- ---
 
 ## :computer: Technologies:
 <p>
@@ -30,20 +31,4 @@ const moyanogdev = {
 ## :bar_chart: Statistics:
 
 ![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanogdev&theme=tokyonight)](https://github.com/moyanogdev/github-readme-stats)
-
-
-<!--
-**Moyanogdev/Moyanogdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanogdev&theme=tokyonight)

@@ -1,6 +1,15 @@
 ![BannerGithub](https://user-images.githubusercontent.com/100478270/189510985-919dcd88-0f7f-4278-a3fb-628111cb7ef7.png)
 
-You can find me :earth_americas: :
+## About me :man::
+```js
+const moyanogdev = {
+  pronouns: "he" | "him",
+  code: [JavaScript, HTML, CSS],
+  tools: [Bootstrap, React, Git],
+ }
+ ```
+ 
+## You can find me :earth_americas::
 - [LinkedIn] (https://linkedin.com/in/gonzalofedericomoyano/)
 - [Portfolio] (https://moyanogdev.github.io/PortfolioDev)
 

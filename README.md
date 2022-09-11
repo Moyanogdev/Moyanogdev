@@ -14,9 +14,7 @@ const moyanogdev = {
  ---
 
 ## Technologies:
-<p>
- (https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
-</p>
+https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat
 
 ## :earth_americas: You can find me:
 - [LinkedIn] (https://linkedin.com/in/gonzalofedericomoyano/)

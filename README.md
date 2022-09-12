@@ -10,7 +10,8 @@ I carry out projects using Frontend technologies. HTML, CSS, Bootstrap and JavaS
 const moyanogdev = {
   pronouns: "he" | "him",
   code: [JavaScript, HTML, CSS],
-  tools: [Bootstrap, React, Git],
+  frameworks: [Bootstrap, React],
+  tools: [Visual Studio Code, Git],
  }
  ```
 

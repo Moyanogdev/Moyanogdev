@@ -1,4 +1,4 @@
-![bannerGH](https://user-images.githubusercontent.com/100478270/195229276-a475e7d6-1545-4326-bb59-fcbedc1685ee.png)
+![bannerGhub](https://user-images.githubusercontent.com/100478270/197358559-055a5dcf-c6a0-4a51-80f0-966e7655123c.png)
 A passionate frontend developer from Córdoba, Argentina.
 I carry out projects using Frontend technologies. HTML, CSS, Bootstrap and JavaScript. I'm constantly learning and looking for a new challenge.
 

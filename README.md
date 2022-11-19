@@ -8,7 +8,7 @@ Let's make something special ❗ 🚀
 - 🌱 I’m currently learning React Js
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 
-## :man: About me in code:
+## 👨‍💻 About me in code:
 ```js
 const moyanogdev = {
   pronouns: "he" | "him",

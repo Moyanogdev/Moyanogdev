@@ -1,6 +1,6 @@
 ![bannerGhub](https://user-images.githubusercontent.com/100478270/197358559-055a5dcf-c6a0-4a51-80f0-966e7655123c.png)
 A passionate frontend developer from Córdoba, Argentina. 
-Interested in the entire frontend spectrum and working on challenging projects in contact with the great people. I'm constantly learning and looking for a new challenge 👨‍💻.
+Interested in the entire frontend spectrum and working on challenging projects in contact with the great people. I'm constantly learning and looking for a new challenge 👨💻.
 I really enjoy creating and making things look good. 
 
 ### Let's make something special ❗ 🚀

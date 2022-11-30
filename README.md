@@ -13,7 +13,8 @@ I really enjoy creating and making things look good 🎨.
 const moyanogdev = {
   pronouns: "he" | "him",
   code: [JavaScript, HTML, CSS],
-  frameworks: [Bootstrap, React],
+  library: [React],
+  frameworks: [Bootstrap, Tailwind],
   tools: [Visual Studio Code, Git],
  }
  ```

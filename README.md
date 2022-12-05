@@ -5,7 +5,7 @@ I really enjoy creating and making things look good 🎨.
 
 ### Let's make something special❗ 🚀
 
-- 🌱 I’m currently learning React Js at Coderhouse
+- 🌱 I’m currently learning React Js at Coderhouse.
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 
 ## 👨‍💻 About me in code:

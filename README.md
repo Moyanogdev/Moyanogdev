@@ -34,7 +34,7 @@ const moyanogdev = {
 
 ## :earth_americas: You can find me:
 - [LinkedIn] (https://linkedin.com/in/gonzalofedericomoyano/)
-- [Portfolio] (https://moyanogdev.github.io/ProyectMoyano)
+- [Portfolio] (https://moyanogdev.github.io/ProjectMoyano)
 
 ## :bar_chart: Statistics:
 

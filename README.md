@@ -3,7 +3,7 @@ A passionate frontend developer from Córdoba, Argentina.
 Interested in the entire frontend spectrum and working on challenging projects in contact with the great people. I'm constantly learning and looking for a new challenge 👨💻.
 I really enjoy creating and making things look good 🎨.
 
-### Let's make something special❗ 🚀.
+### Let's make something special❗ 🚀
 
 - 🌱 I’m currently learning React Native at Coderhouse
 - 📫 How to reach me: gmoyanodvlpr@gmail.com

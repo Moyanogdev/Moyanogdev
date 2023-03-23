@@ -1,4 +1,4 @@
-![Banner Moyanogdev](https://user-images.githubusercontent.com/100478270/211900698-197be5f4-dd21-4776-8ea1-beacc7266949.png)
+![Banner Github](https://user-images.githubusercontent.com/100478270/227373925-e1f64819-7eaa-4d88-a4a2-643b14072731.png)
 A passionate frontend developer from Córdoba, Argentina.
 Interested in the entire frontend spectrum and working on challenging projects in contact with the great people. I'm constantly learning and looking for a new challenge.
 I really enjoy creating and making things look good. 🎨

@@ -1,4 +1,4 @@
-![Banner Github](https://user-images.githubusercontent.com/100478270/227373925-e1f64819-7eaa-4d88-a4a2-643b14072731.png)
+![Banner Github](https://user-images.githubusercontent.com/100478270/227642569-0eae5441-d234-446f-b614-c92b278e4f2b.png)
 A passionate frontend developer from Córdoba, Argentina.
 Interested in the entire frontend spectrum and working on challenging projects in contact with the great people. I'm constantly learning and looking for a new challenge.
 I really enjoy creating and making things look good. 🎨

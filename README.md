@@ -5,7 +5,7 @@ I really enjoy creating and making things look good. 🎨
 
 ### Let's make something special❗ 🚀
 
-- 💻 Currently working as Freelance
+- 💻 Currently working at Etna Education and also as a Freelance
 - 🌱 I’m currently learning React Native at Coderhouse
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 

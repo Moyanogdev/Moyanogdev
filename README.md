@@ -6,7 +6,7 @@ I really enjoy creating and making things look good.
 ### Let's make something special❗ 🚀
 
 - 💻 Currently working at Etna Education and also as a Freelance
-- 🌱 I’m currently learning React Native at Coderhouse
+- 🌱 I’m currently learning SQL Server at Udemy
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 
 ## 👨‍💻 About me in code:

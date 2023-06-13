@@ -5,7 +5,7 @@ I really enjoy creating and making things look good.
 
 ### Let's make something special!
 
-- 💻 Currently working at Etna Education, Creativos Digitales and also as a Freelance
+- 💻 Currently working at Etna Education, Epix Education and also as a Freelance
 - 🌱 I’m currently learning SQL Server at Udemy
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 

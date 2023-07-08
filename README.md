@@ -5,8 +5,8 @@ I really enjoy creating and making things look good.
 
 ### Let's make something special!
 
-- 💻 Currently working at Etna Education and Epix Education
-- 🌱 I’m currently learning SQL Server at Udemy
+- 💻 Currently working at Etna Education, Epix Education and Paytaler App
+- 🌱 I’m currently learning SQL and Python at Coderhouse
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 
 ## 👨‍💻 About me in code:

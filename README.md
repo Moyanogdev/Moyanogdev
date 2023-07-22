@@ -5,7 +5,7 @@ I really enjoy creating and making things look good.
 
 ### Let's make something special!
 
-- 💻 Currently working at Etna Education, Epix Education and Paytaler App
+- 💻 Currently working at Etna Education, Epix Education and Paytaler
 - 🌱 I’m currently learning SQL and Python at Coderhouse
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 

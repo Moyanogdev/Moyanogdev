@@ -49,6 +49,6 @@ const moyanogdev = {
 
 ## :bar_chart: Statistics:
 
-<!-- ![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev&theme=tokyonight) -->
+![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanogdev&theme=tokyonight)
 

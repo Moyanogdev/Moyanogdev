@@ -5,8 +5,8 @@ I really enjoy creating and making things look good.
 
 ### Let's make something special!
 
-- 💻 Currently working at Etna Education, Epix Education and Paytaler
-- 🌱 I’m currently learning SQL and Python at Coderhouse
+- 💻 Currently working at Etna Education, Epix Education and Paytaler.
+- 🌱 I’m currently learning SQL and Python at Coderhouse.
 - 📫 How to reach me: gmoyanodvlpr@gmail.com
 
 ## 👨‍💻 About me in code:
@@ -52,3 +52,4 @@ const moyanogdev = {
 
 <!-- ![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanogdev&theme=tokyonight)
+

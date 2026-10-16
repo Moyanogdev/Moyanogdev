@@ -1,55 +1,73 @@
-![Banner Github](https://user-images.githubusercontent.com/100478270/227642569-0eae5441-d234-446f-b614-c92b278e4f2b.png)
-A passionate frontend developer from Córdoba, Argentina.
-Interested in the entire frontend spectrum and working on challenging projects in contact with the great people. I'm constantly learning and looking for a new challenge.
-I really enjoy creating and making things look good.
+# Gonzalo Moyano
 
-### Let's make something special!
+### I design and build AI-powered digital products — websites, platforms and systems that work, and prove it.
 
-- 💻 Currently working at Etna Education, Epix Education and Paytaler
-- 🌱 I’m currently learning SQL and Python at Coderhouse
-- 📫 How to reach me: gmoyanodvlpr@gmail.com
+Founder of **Ascua Labs** and **UIFlux Studio** · Córdoba, Argentina · working with clients in Argentina, Spain, Italy and the US.
 
-## 👨‍💻 About me in code:
-```js
-const moyanogdev = {
-  pronouns: "he" | "him",
-  code: [JavaScript, HTML, CSS],
-  library: [React],
-  frameworks: [Bootstrap, Tailwind],
-  tools: [Visual Studio Code, Git],
- }
- ```
+I turn ideas and day-to-day processes into digital systems that run on their own and can be measured. I design the experience your team and your customers use every day, and I build the technology behind it — including the AI and automation that does the repetitive work.
 
-## :computer: Technologies:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-  <img src="https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="react"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sql"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="wordpress"/>
-</p>
+<!--
+  Números de arriba: agregarlos cuando haya datos reales, aunque sean de pilotos.
+  | ⏱️ Tiempo de respuesta | 🕒 Horas ahorradas por mes | 📈 Conversión |
+  |---|---|---|
+  | de X h a Y min | N h | +N % |
+-->
 
-## :art: Design Tools:
-<p>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="adobeillustrator"/>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="adobephotoshop"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-</p>
+## How I can help
 
-## :earth_americas: You can find me:
-- [LinkedIn] (https://linkedin.com/in/gonzalofmoyano/)
-- [Portfolio] (https://moyanogdev.github.io/ProjectMoyano)
+- **Product, design and interface** — web apps, dashboards, design systems and sites that people actually use. *(UIFlux Studio)*
+- **Measurable results with AI** — lead capture and response, customer service agents, automation, SEO. *(Ascua Labs)*
+- **End to end** — from the first conversation to a system running in production, with the numbers to show what improved.
 
-## :bar_chart: Statistics:
+## Selected work
 
-<!-- ![moyanogdev's github stats](https://github-readme-stats.vercel.app/api?username=moyanogdev&theme=tokyonight) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyanogdev&theme=tokyonight)
+Each case: the problem, what I built, and the result. Cases still collecting data are marked *in progress*.
 
+**infoPH — real estate platform** · *in progress*
+A real estate company in Córdoba had its listings only on third-party classifieds, with no site or system of its own. I built their platform: real listings with filters, map and search, landing pages for new developments, lead forms with campaign tracking (UTM) routed to the sales inbox, and a role-based private area for the sales team. Running on its own server. Next: an AI agent that answers inquiries and the first measured numbers.
+`Astro` `TypeScript` `Leaflet` `Linux` `Caddy`
+
+**SHD Italia — hospital modular systems**
+New website for an Italian company that builds modular systems for hospitals: a serious, technical industry presented to an international audience.
+
+**ZEIT — Reebok Strength Argentina**
+Website and SEO for the brand, plus a proposal for 3D product visualization and a richer commercial experience.
+
+**Operations platform — logistics**
+Routes, fleet and a PWA that works offline for the team on the road. A system, not a website.
+
+**Jus Studio** — Shopify e-commerce.
+**Fidemza, Big Consulting, Starlings** — product and design work. Fidemza: automated client intake *(in progress)*.
+
+## How I work
+
+1. **Find where time or money is lost** — how many inquiries come in, how long they take to get an answer, what a client is worth.
+2. **Measure the starting point** before changing anything.
+3. **Build a small pilot in about a week** and show the result with the number that changed.
+4. **Scale what works.**
+
+## Let's talk
+
+Open to new projects and remote roles.
+📫 **gmoyanodvlpr@gmail.com** · [LinkedIn](https://www.linkedin.com/in/gonzalofedericomoyano/)
+
+---
+
+<details>
+<summary><strong>🇦🇷 En español</strong></summary>
+
+<br>
+
+### Diseño y desarrollo productos digitales con IA: webs, plataformas y sistemas que trabajan y se miden.
+
+Fundador de **Ascua Labs** y **UIFlux Studio**. Trabajo desde Córdoba con clientes de Argentina, España, Italia y Estados Unidos.
+
+Convierto ideas y procesos en sistemas digitales que trabajan solos y se pueden medir. Diseño la experiencia que usan tu equipo y tus clientes todos los días, y construyo la tecnología que hay detrás, incluida la IA y la automatización que hace el trabajo repetitivo.
+
+**Cómo trabajo:** miro dónde se te va tiempo o plata, mido el punto de partida, armo un piloto en una semana y te muestro el número que mejoró. Si funciona, seguimos.
+
+**Casos:** infoPH (plataforma inmobiliaria), SHD Italia (sistemas modulares hospitalarios), ZEIT – Reebok Strength Argentina (web y SEO), plataforma operativa de logística (rutas, flota, PWA offline), Jus Studio (Shopify), Fidemza, Big Consulting y Starlings (producto y diseño).
+
+**Hablemos:** gmoyanodvlpr@gmail.com
+
+</details>

@@ -1,23 +1,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Gonzalo Moyano — I design and build AI-powered digital products. Websites, platforms and systems that work, and prove it with numbers." src="assets/banner-light.png" width="100%">
+  <img alt="Gonzalo Moyano — I design, build and launch digital products end to end." src="assets/banner-light.png" width="100%">
 </picture>
 
 <p align="center">
-  <a href="mailto:gmoyanodvlpr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmoyanodvlpr%40gmail.com-0d1017?style=for-the-badge&logo=gmail&logoColor=ff7a1a"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/gonzalofedericomoyano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1017?style=for-the-badge&logo=linkedin&logoColor=ff7a1a"></a>&nbsp;
-  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-ff7a1a?style=for-the-badge">
+  <a href="https://moyanogdev.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-moyanogdev.com-0b1f3a?style=for-the-badge&logo=googlechrome&logoColor=8cb8ff"></a>&nbsp;
+  <a href="mailto:gmoyanodvlpr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmoyanodvlpr%40gmail.com-0b1f3a?style=for-the-badge&logo=gmail&logoColor=8cb8ff"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/gonzalofedericomoyano/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b1f3a?style=for-the-badge&logo=linkedin&logoColor=8cb8ff"></a>&nbsp;
+  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-1b4580?style=for-the-badge">
 </p>
 
 <br>
 
-I turn ideas and day-to-day processes into digital systems that run on their own and can be measured. I design the experience your team and your customers use every day, and I build the technology behind it — including the AI and automation that does the repetitive work.
+I take a project from idea to production: interface design, frontend, backend, integrations and deployment. I care about sites that look good, load fast and that the client can actually run day to day.
 
-Founder of **Ascua Labs** (AI, automation and measurable results) and **UIFlux Studio** (product, design and interface). Working from Córdoba, Argentina, with clients in Argentina, Spain, Italy and the US.
+## What I do
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/facts-dark.png">
-  <img alt="4 countries · 2 studios · 7-day pilots measured before and after" src="assets/facts-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/areas-dark.png">
+  <img alt="Design · Frontend · Backend & AI · Launch" src="assets/areas-light.png" width="100%">
 </picture>
 
 <br>
@@ -28,26 +29,26 @@ Founder of **Ascua Labs** (AI, automation and measurable results) and **UIFlux S
   <tr>
     <td width="50%" valign="top">
       <img src="assets/cover-infoph.png" alt="infoPH — real estate platform" width="100%"><br>
-      <b>infoPH · Real estate platform</b> &nbsp;<sub><i>in progress</i></sub><br>
-      <sub>A real estate company in Córdoba had its listings only on third-party classifieds. I built their platform: real listings with filters, map and search, landing pages for new developments, lead forms with campaign tracking routed to the sales inbox, and a role-based private area for the sales team. Running on its own server. Next: an AI agent that answers inquiries.</sub><br>
-      <sub><code>Astro</code> <code>TypeScript</code> <code>Leaflet</code> <code>Linux</code> <code>Caddy</code></sub>
+      <b>infoPH · Real estate platform</b><br>
+      <sub>Public site and private area for a real estate company in Córdoba: listings with filters, map and search, landing pages for new developments, lead forms routed to the sales inbox, and a role-based private area for the sales team. Designed, built and deployed on its own server.</sub><br>
+      <sub><code>Astro</code> <code>TypeScript</code> <code>Leaflet</code> <code>Linux</code></sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/cover-shd.png" alt="SHD Italia" width="100%"><br>
-      <b>SHD Italia · Hospital modular systems</b><br>
-      <sub>New website for an Italian company that builds modular systems for hospitals: a technical, regulated industry presented to an international audience.</sub>
+      <b>SHD Italia · Healthcare</b><br>
+      <sub>New website for an Italian company that builds modular systems for hospitals, presented to an international audience.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="assets/cover-zeit.png" alt="ZEIT — Reebok Strength Argentina" width="100%"><br>
       <b>ZEIT · Reebok Strength Argentina</b><br>
-      <sub>Website and SEO for the brand, plus a proposal for 3D product visualization and a richer commercial experience.</sub>
+      <sub>Website and SEO for the brand, plus a proposal for 3D product visualization.</sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/cover-ops.png" alt="Operations platform — logistics" width="100%"><br>
       <b>Operations platform · Logistics</b><br>
-      <sub>Routes, fleet management and a PWA that works offline for the team on the road. A system, not a website.</sub>
+      <sub>Routes, fleet management and an offline app for the team on the road.</sub>
     </td>
   </tr>
   <tr>
@@ -59,42 +60,35 @@ Founder of **Ascua Labs** (AI, automation and measurable results) and **UIFlux S
     <td width="50%" valign="top">
       <img src="assets/cover-studio.png" alt="Fidemza, Big Consulting, Starlings" width="100%"><br>
       <b>Fidemza · Big Consulting · Starlings</b><br>
-      <sub>Product and design work. Fidemza: automated client intake <i>(in progress)</i>.</sub>
+      <sub>Product and interface design.</sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-## How I work
-
-<img src="assets/process.png" alt="1. Find the leak — 2. Measure the baseline — 3. Pilot in a week — 4. Scale what works" width="100%">
-
-<br>
-
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Astro-0d1017?style=flat-square&logo=astro&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-0d1017?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-0d1017?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-0d1017?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-0d1017?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Shopify-0d1017?style=flat-square&logo=shopify&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-0d1017?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Caddy-0d1017?style=flat-square&logo=caddy&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-0d1017?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-0d1017?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-0d1017?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Astro-0b1f3a?style=flat-square&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-0b1f3a?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-0b1f3a?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-0b1f3a?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-0b1f3a?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Shopify-0b1f3a?style=flat-square&logo=shopify&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-0b1f3a?style=flat-square&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-0b1f3a?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-0b1f3a?style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-0b1f3a?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
 <br>
 
 ## Let's talk
 
-Open to new projects and remote roles. The first conversation is about where you lose time or money; the stack comes later.
+Available for freelance projects and remote positions.
 
-**gmoyanodvlpr@gmail.com** · [LinkedIn](https://www.linkedin.com/in/gonzalofedericomoyano/)
+**[moyanogdev.com](https://moyanogdev.com)** · **gmoyanodvlpr@gmail.com** · [LinkedIn](https://www.linkedin.com/in/gonzalofedericomoyano/)
 
 ---
 
@@ -103,16 +97,12 @@ Open to new projects and remote roles. The first conversation is about where you
 
 <br>
 
-### Diseño y desarrollo productos digitales con IA: webs, plataformas y sistemas que trabajan y se miden.
+### Diseño, desarrollo y pongo en marcha productos digitales de punta a punta.
 
-Fundador de **Ascua Labs** (IA, automatización y resultados medibles) y **UIFlux Studio** (producto, diseño e interfaz). Trabajo desde Córdoba con clientes de Argentina, España, Italia y Estados Unidos.
+Desde el primer boceto hasta el sitio funcionando en su propio servidor. Vivo en Córdoba, Argentina, y trabajo de forma remota. Me ocupo de todo el recorrido: diseño de interfaz, frontend, backend, integraciones y publicación. Me importa que el sitio se vea bien, cargue rápido y que el cliente lo pueda usar en el día a día.
 
-Convierto ideas y procesos en sistemas digitales que trabajan solos y se pueden medir. Diseño la experiencia que usan tu equipo y tus clientes todos los días, y construyo la tecnología que hay detrás, incluida la IA y la automatización que hace el trabajo repetitivo.
+**Trabajos:** infoPH (plataforma inmobiliaria), SHD Italia (sistemas modulares hospitalarios), ZEIT – Reebok Strength Argentina (web y SEO), plataforma operativa de logística, Jus Studio (Shopify), Fidemza, Big Consulting y Starlings (diseño de producto).
 
-**Cómo trabajo:** miro dónde se te va tiempo o plata, mido el punto de partida, armo un piloto en una semana y te muestro el número que mejoró. Si funciona, seguimos.
-
-**Casos:** infoPH (plataforma inmobiliaria), SHD Italia (sistemas modulares hospitalarios), ZEIT – Reebok Strength Argentina (web y SEO), plataforma operativa de logística (rutas, flota, PWA offline), Jus Studio (Shopify), Fidemza, Big Consulting y Starlings (producto y diseño).
-
-**Hablemos:** gmoyanodvlpr@gmail.com
+**Disponible** para proyectos freelance y posiciones remotas · [moyanogdev.com](https://moyanogdev.com) · gmoyanodvlpr@gmail.com
 
 </details>
